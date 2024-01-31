@@ -13,7 +13,7 @@ Turns a fisheye image into a panoramic image.
 ![Image of sky from a fisheye lens](./large2.jpg "Fisheye")
 
 ```
-python fish2pano.py large2.jpg 481 618,538 0.5 large2_pano.jpg
+python fish2panoui.py large2.jpg 481 618,538 0.5 large2_pano.jpg
 ```
 
 

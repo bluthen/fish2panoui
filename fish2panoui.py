@@ -1,5 +1,6 @@
 import cv2
 import fish2pano
+import sys
 
 def main():
     if len(sys.argv) < 6:
